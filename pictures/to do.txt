@@ -1,0 +1,7 @@
+- img  - rozne wiekosci zdjec dla roznych screenow - > 
+- alt do zdjec
+- logo - id home
+- media queries
+- font size na vh lub vw / 
+- px na rem/em
+
